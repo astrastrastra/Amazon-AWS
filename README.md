@@ -1,10 +1,5 @@
 # Intelligent Measurement Systems
-## Project report 
 
-### Project team
-1. Paweł Kozielec 165368
-2. Marcin Perdeusz 165688
-3. Artur Skrzynecki 165292
 
 ### The purpose of the project 
 Design and implement a measurement system that analyzes data on terrain height differentiation by selecting groups of areas with the highest growth (Europe continent). The height increase in a given location should be measured with at least 10 measurement points. Set 5 groups of areas by the average value of the height increase. Mark the detected areas on the map. 
